@@ -1,4 +1,14 @@
 /.vscode
+bin/
+obj/
+*.obj
+*.pdb
+*.ilk
+*.o
+*.cbp
+*.depend
+*.layout
+*.ico
 /aes_dll escapist
 /CodeBlocks.lnk
 /desktop.ini
