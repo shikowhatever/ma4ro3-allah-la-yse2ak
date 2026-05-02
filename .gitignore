@@ -1,3 +1,7 @@
+/Visual Studio Code.lnk
+/Microsoft Edge.lnk
+/CodeBlocks.lnk
+/desktop.ini
 /.vscode
 bin/
 obj/
@@ -9,15 +13,10 @@ obj/
 *.depend
 *.layout
 *.ico
+/gradproject
 /aes_dll escapist
-/CodeBlocks.lnk
-/desktop.ini
 /doppel attempts
 /doppelganging
 /ghosting
-/gradproject
-/herpaderping
-/Microsoft Edge.lnk
 /module stopming
 /transact hollowing
-/Visual Studio Code.lnk
