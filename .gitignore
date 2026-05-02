@@ -13,6 +13,7 @@ obj/
 *.depend
 *.layout
 *.ico
+*.exe
 /gradproject
 /aes_dll escapist
 /doppel attempts
