@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764452654 source:c:\users\victim\desktop\test hollow block\process hollowing\main.cpp
+	<iostream>
+	<windows.h>
+	<winternl.h>
+

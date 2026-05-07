@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\victim\desktop\transact hollowing\main.cpp
+	<iostream>
+
+1777150224 source:c:\users\victim\desktop\transact hollowing\cwlimplant.cpp
+	<Windows.h>
+	<stdio.h>
+	"CWLInc.h"
+	<iostream>
+
+1777149798 c:\users\victim\desktop\transact hollowing\cwlinc.h
+	<Windows.h>
+
