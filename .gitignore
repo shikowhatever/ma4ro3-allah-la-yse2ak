@@ -5,11 +5,27 @@
 *.ilk
 *.dll
 *.o
+*.cbp
+*.depend
+*.layout
+*.sln
+*.lnk
+*.ico
+# Ignore specific system and text files
+desktop.ini
+ghostissue.txt
+ignore.txt
 
 # Ignore specific build directories if they exist
 bin/
 obj/
 Debug/
 Release/
+
+# Specific project folders to ignore
+/.vscode
 /framework/
 /testing decryption
+/gradproject
+/under testing
+/aes_dll escapist
