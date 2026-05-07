@@ -24,7 +24,6 @@ Release/
 
 # Specific project folders to ignore
 /.vscode
-/framework/
 /testing decryption
 /gradproject
 /under testing
