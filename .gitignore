@@ -1,0 +1,15 @@
+# Ignore all binaries and build artifacts in any folder
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.dll
+*.o
+
+# Ignore specific build directories if they exist
+bin/
+obj/
+Debug/
+Release/
+/framework/
+/testing decryption

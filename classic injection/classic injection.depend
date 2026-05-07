@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1765129099 source:c:\users\victim\desktop\classic injection\main.cpp
-	<iostream>
-	<Windows.h>
-	<tlhelp32.h>
-	<vector>
-

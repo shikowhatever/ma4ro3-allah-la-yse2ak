@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1765175251 source:c:\users\victim\desktop\section mapping\main.cpp
-	<stdio.h>
-	<Windows.h>
-	"CWLInc.h"
-
-1765174967 c:\users\victim\desktop\section mapping\cwlinc.h
-	<Windows.h>
-
